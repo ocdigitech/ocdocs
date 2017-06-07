@@ -1,15 +1,15 @@
-# Welcome to MkDocs
+# 芯橙知识库
 
-For full documentation visit [mkdocs.org](http://mkdocs.org).
+这里记录着我们所有的技术知识和经验，以便随时查阅 [orro.xyz](http://orro.xyz).
 
-## Commands
+## mkdocs命令行
 
 * `mkdocs new [dir-name]` - Create a new project.
 * `mkdocs serve` - Start the live-reloading docs server.
 * `mkdocs build` - Build the documentation site.
 * `mkdocs help` - Print this help message.
 
-## Project layout
+## Project layout结构
 
     mkdocs.yml    # The configuration file.
     docs/

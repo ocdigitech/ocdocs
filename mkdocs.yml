@@ -2,6 +2,8 @@ site_name: 芯橙数码
 
 pages:
     - 主页: index.md
+    - 使用手册:
+        - 如何书写文档: user-guide/writing-docs.md
     - 关于: about.md
 
 extra_css:
@@ -14,7 +16,7 @@ markdown_extensions:
         permalink: True
     - admonition:
 
-copyright: Copyright &copy; 2017 <a href="http://orro.xyz">OC Digital</a>, Maintained by the <a href="http://orro.xyz">Jamesdog</a>.
+copyright: Copyright &copy; 2017 <a href="http://orro.xyz">OC Digital</a>, Maintained by the <a href="mailto:jamesdog@126.com">Jamesdog</a>.
 
 docs_dir: 'pages'
 site_dir: 'docs'
