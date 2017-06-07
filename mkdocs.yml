@@ -12,6 +12,9 @@ extra_css:
 markdown_extensions:
     - smarty
     - sane_lists
+    - footnotes
+    - abbr
+    - def_list
     - toc:
         permalink: True
     - admonition:
