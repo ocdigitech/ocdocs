@@ -15,7 +15,7 @@ Content Cell | Content Cell  | Content Cell
 Content Cell | Content Cell  | Content Cell
 
 #米老鼠
-你好你是谁
+你好 你是谁
 
 !!! Note
     If you are using Windows, some of the above commands may not work
