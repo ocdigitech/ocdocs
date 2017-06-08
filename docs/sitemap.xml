@@ -21,6 +21,14 @@
 
     
     <url>
+     <loc>/notes/</loc>
+     <lastmod>2017-06-08</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
      <loc>/about/</loc>
      <lastmod>2017-06-08</lastmod>
      <changefreq>daily</changefreq>

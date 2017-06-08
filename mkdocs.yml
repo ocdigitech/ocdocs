@@ -4,6 +4,7 @@ pages:
     - 主页: index.md
     - 使用手册:
         - 如何书写文档: user-guide/writing-docs.md
+    - 建站事宜: notes.md
     - 关于: about.md
 
 extra_css:
