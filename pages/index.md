@@ -30,5 +30,3 @@ Orange
     docs/
         index.md  # The documentation homepage.
         ...       # Other markdown pages, images and other files.
-
-<embed height="415" width="100%" quality="high" allowfullscreen="true" type="application/x-shockwave-flash" src="//static.hdslb.com/miniloader.swf" flashvars="aid=11096784&page=1" pluginspage="//www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash"></embed>
